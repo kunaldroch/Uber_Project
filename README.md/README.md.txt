@@ -27,7 +27,12 @@ The project showcases the following skills:
 •  Using Excel and Power BI: 
 
   1. Open Excel files in the `data/` folder for analysis.  
-  2. Open Power BI dashboards from the `dashboards/` folder to explore interactive visualizations.  
+  2. Open Power BI dashboards from the `dashboards/` folder to explore interactive visualizations.
+
+• Sample Dashboard:
+
+  ![Power BI Dashboard](dashboards/dashboard_screenshot.png)
+  
 
 • Skills Highlighted:
  
